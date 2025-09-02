@@ -11,7 +11,7 @@ Together, these modules showcase the interplay between geometric and wave-based 
 
 To save animations or run subprocesses, ensure FFmpeg is installed and accessible in your system path.
 
-
+![](hologram_camouflage_panels.png)
 
 
 ##  How to Run
